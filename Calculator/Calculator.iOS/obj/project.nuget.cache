@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ycngIAdovAS0J+5575bDMlwHNRKwMxUeyNKFO18vZHHzvGSFVbS8sxuqqJhGYeTnEBAcbPWI5AY0zE7zB2SEcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ergun\\Desktop\\DENEMELER\\Calculator\\Calculator\\Calculator.iOS\\Calculator.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

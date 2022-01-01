@@ -1,0 +1,13 @@
+C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.pdb
