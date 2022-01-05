@@ -32,7 +32,6 @@ C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator.Android\obj\De
 C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator.Android\obj\Debug\110\R.txt
 C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator.Android\obj\Debug\110\R.cs.flag
 C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator.Android\obj\Debug\110\Calculator.Android.csproj.CoreCompileInputs.cache
-C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator.Android\obj\Debug\110\Calculator.Android.csproj.CopyComplete
 C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator.Android\obj\Debug\110\Calculator.Android.dll
 C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator.Android\obj\Debug\110\Calculator.Android.pdb
 C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator.Android\obj\Debug\110\android\bin\com.companyname.Calculator.apk
@@ -542,3 +541,4 @@ C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator.Android\obj\De
 C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator.Android\bin\Debug\Calculator.dll.mdb
+C:\Users\ergun\Desktop\DENEMELER\Calculator\Calculator\Calculator.Android\obj\Debug\110\Calculator.Android.csproj.CopyComplete
