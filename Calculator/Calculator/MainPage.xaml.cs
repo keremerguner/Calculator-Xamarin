@@ -16,18 +16,22 @@ namespace Calculator
 
         private void BtnAC_Clicked(object sender, EventArgs e)
         {
+            /*Sifirlama Islemi*/
         }
 
         private void BtnArtiBoluEksi_Clicked(object sender, EventArgs e)
         {
+            /*Isaret Degistirme Islemi*/
         }
 
         private void BtnYuzde_Clicked(object sender, EventArgs e)
         {
+            /*Yuzde Alma Islemi*/
         }
 
         private void BtnBolu_Clicked(object sender, EventArgs e)
         {
+            /*Bolme Islemi*/
         }
 
         private void Btn7_Clicked(object sender, EventArgs e)
@@ -47,6 +51,7 @@ namespace Calculator
 
         private void BtnX_Clicked(object sender, EventArgs e)
         {
+            /*Carpma Islemi*/
         }
 
         private void Btn4_Clicked(object sender, EventArgs e)
@@ -66,6 +71,7 @@ namespace Calculator
 
         private void BtnEksi_Clicked(object sender, EventArgs e)
         {
+            /*Cikarma Islemi*/
         }
 
         private void Btn1_Clicked(object sender, EventArgs e)
@@ -85,6 +91,7 @@ namespace Calculator
 
         private void BtnArti_Clicked(object sender, EventArgs e)
         {
+            /*Toplama Islemi*/
         }
 
         private void Btn0_Clicked(object sender, EventArgs e)
@@ -94,10 +101,12 @@ namespace Calculator
 
         private void BtnVirgul_Clicked(object sender, EventArgs e)
         {
+            /*Float Yapma Islemi*/
         }
 
         private void BtnEsittir_Clicked(object sender, EventArgs e)
         {
+            /*Sonuc Islemi*/
         }
     }
 }
