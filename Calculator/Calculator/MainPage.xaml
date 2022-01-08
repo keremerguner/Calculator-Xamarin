@@ -30,27 +30,27 @@
                VerticalTextAlignment="End"
                TextColor="White"
                FontSize="60" />
-        <Button x:Name="BtnAC" Grid.Row="1" Grid.Column="0" Text="AC" FontSize="40" BackgroundColor="DarkGray" BorderRadius="0" Clicked="BtnAC_Clicked" />
+        <Button x:Name="BtnAC" Grid.Row="1" Grid.Column="0" Text="AC" FontSize="40" BackgroundColor="DarkGray" BorderRadius="0" Clicked="BtnClear_Clicked" />
         <Button x:Name="BtnArtiBoluEksi" Grid.Row="1" Grid.Column="1" Text="+/_" FontSize="40" BackgroundColor="DarkGray" BorderRadius="0" Clicked="BtnArtiBoluEksi_Clicked" />
         <Button x:Name="BtnYuzde" Grid.Row="1" Grid.Column="2" Text="%" FontSize="40" BackgroundColor="DarkGray" BorderRadius="0" Clicked="BtnYuzde_Clicked" />
         <Button x:Name="BtnBolu" Grid.Row="1" Grid.Column="3" Text="÷" FontSize="40" BackgroundColor="Orange" TextColor="White" BorderRadius="0" Clicked="BtnBolu_Clicked" />
 
-        <Button x:Name="Btn7" Grid.Row="2" Grid.Column="0" Text="7" FontSize="30" BorderRadius="0" Clicked="Btn7_Clicked"/>
-        <Button x:Name="Btn8" Grid.Row="2" Grid.Column="1" Text="8" FontSize="30" BorderRadius="0" Clicked="Btn8_Clicked"/>
-        <Button x:Name="Btn9" Grid.Row="2" Grid.Column="2" Text="9" FontSize="30" BorderRadius="0" Clicked="Btn9_Clicked"/>
+        <Button x:Name="Btn7" Grid.Row="2" Grid.Column="0" Text="7" FontSize="30" BorderRadius="0" Clicked="BtnCommon_Clicked"/>
+        <Button x:Name="Btn8" Grid.Row="2" Grid.Column="1" Text="8" FontSize="30" BorderRadius="0" Clicked="BtnCommon_Clicked"/>
+        <Button x:Name="Btn9" Grid.Row="2" Grid.Column="2" Text="9" FontSize="30" BorderRadius="0" Clicked="BtnCommon_Clicked"/>
         <Button x:Name="BtnCarpim" Grid.Row="2" Grid.Column="3" Text="X" FontSize="30" BackgroundColor="Orange" TextColor="White" BorderRadius="0" Clicked="BtnX_Clicked"/>
 
-        <Button x:Name="Btn4" Grid.Row="3" Grid.Column="0" Text="4" FontSize="30" BorderRadius="0" Clicked="Btn4_Clicked"/>
-        <Button x:Name="Btn5" Grid.Row="3" Grid.Column="1" Text="5" FontSize="30" BorderRadius="0" Clicked="Btn5_Clicked"/>
-        <Button x:Name="Btn6" Grid.Row="3" Grid.Column="2" Text="6" FontSize="30" BorderRadius="0" Clicked="Btn6_Clicked"/>
+        <Button x:Name="Btn4" Grid.Row="3" Grid.Column="0" Text="4" FontSize="30" BorderRadius="0" Clicked="BtnCommon_Clicked"/>
+        <Button x:Name="Btn5" Grid.Row="3" Grid.Column="1" Text="5" FontSize="30" BorderRadius="0" Clicked="BtnCommon_Clicked"/>
+        <Button x:Name="Btn6" Grid.Row="3" Grid.Column="2" Text="6" FontSize="30" BorderRadius="0" Clicked="BtnCommon_Clicked"/>
         <Button x:Name="BtnEksi" Grid.Row="3" Grid.Column="3" Text="-" FontSize="40" BackgroundColor="Orange" TextColor="White" BorderRadius="0" Clicked="BtnEksi_Clicked"/>
 
-        <Button x:Name="Btn1" Grid.Row="4" Grid.Column="0" Text="1" FontSize="30" BorderRadius="0" Clicked="Btn1_Clicked"/>
-        <Button x:Name="Btn2" Grid.Row="4" Grid.Column="1" Text="2" FontSize="30" BorderRadius="0" Clicked="Btn2_Clicked"/>
-        <Button x:Name="Btn3" Grid.Row="4" Grid.Column="2" Text="3" FontSize="30" BorderRadius="0" Clicked="Btn3_Clicked"/>
+        <Button x:Name="Btn1" Grid.Row="4" Grid.Column="0" Text="1" FontSize="30" BorderRadius="0" Clicked="BtnCommon_Clicked"/>
+        <Button x:Name="Btn2" Grid.Row="4" Grid.Column="1" Text="2" FontSize="30" BorderRadius="0" Clicked="BtnCommon_Clicked"/>
+        <Button x:Name="Btn3" Grid.Row="4" Grid.Column="2" Text="3" FontSize="30" BorderRadius="0" Clicked="BtnCommon_Clicked"/>
         <Button x:Name="BtnArti" Grid.Row="4" Grid.Column="3" Text="+" FontSize="40" BackgroundColor="Orange" TextColor="White" BorderRadius="0" Clicked="BtnArti_Clicked"/>
 
-        <Button x:Name="Btn0" Grid.Row="5" Grid.ColumnSpan="2" Text="0" FontSize="30" BorderRadius="0" Clicked="Btn0_Clicked"/>
+        <Button x:Name="Btn0" Grid.Row="5" Grid.ColumnSpan="2" Text="0" FontSize="30" BorderRadius="0" Clicked="BtnCommon_Clicked"/>
         <Button x:Name="BtnVirgul" Grid.Row="5" Grid.Column="2" Text="," FontSize="40" BorderRadius="0" Clicked="BtnVirgul_Clicked"/>
         <Button x:Name="BtnEsittir" Grid.Row="5" Grid.Column="3" Text="=" FontSize="40" BackgroundColor="Orange" TextColor="White" BorderRadius="0" Clicked="BtnEsittir_Clicked"/>
     </Grid>

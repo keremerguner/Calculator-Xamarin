@@ -14,9 +14,22 @@ namespace Calculator
             InitializeComponent();
         }
 
-        private void BtnAC_Clicked(object sender, EventArgs e)
+        private void BtnCommon_Clicked(object sender, EventArgs e)
         {
-            /*Sifirlama Islemi*/
+            var button = sender as Button;
+            if (LabelView.Text == "0")
+            {
+                LabelView.Text = button.Text;
+            }
+            else
+            {
+                LabelView.Text += button.Text;
+            }
+        }
+
+        private void BtnClear_Clicked(object sender, EventArgs e)
+        {
+            LabelView.Text = "0";
         }
 
         private void BtnArtiBoluEksi_Clicked(object sender, EventArgs e)
